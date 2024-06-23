@@ -1,0 +1,723 @@
+: 1715823196:0;neofetch
+: 1715823213:0;sudo apt install zsh-doc
+: 1715823252:0;info zsh
+: 1715823336:0;echo $PATH
+: 1715823372:0;echo $ZDOTDIR
+: 1715823375:0;pwd
+: 1715823965:0;info zsh
+: 1715824014:0;apt search zsh
+: 1715824080:0;apt install thefuck zsh-autosuggestions zsh-antigen zsh-syntax-highlighting
+: 1715824094:0;sudo apt install thefuck zsh-autosuggestions zsh-antigen zsh-syntax-highlighting
+: 1715824129:0;zsh-antigen
+: 1715824132:0;antigen
+: 1715824135:0;zsh
+: 1715824145:0;apt search zsh
+: 1715824227:0;sudo apt install px vcsh
+: 1715824276:0;sudo apt install ack | ack-grep bzr darcs dgit fossil git-annex kdesdk-scripts mercurial perl-doc stow subversion\
+  subversion-tools unison
+: 1715824320:0;sudo apt install ack ack-grep bzr darcs dgit fossil git-annex kdesdk-scripts mercurial perl-doc stow subversion subversion-tools unison
+: 1715824352:0;systemctl status apt
+: 1715824357:0;apt
+: 1715824366:0;apt show zsh
+: 1715824391:0;man apt.conf
+: 1715824455:0;sudo nano /etc/apt/conf
+: 1715824462:0;cd /etc/apt
+: 1715824465:0;ls -a
+: 1715824474:0;cd apt.conf.d
+: 1715824475:0;ls
+: 1715824515:0;cat packagekit
+: 1715824525:0;sudo apt install cat
+: 1715824538:0;htop
+: 1715824547:0;kill
+: 1715824552:0;kill --help
+: 1715824558:0;kill -l
+: 1715824574:0;px
+: 1715824590:0;sudo htop
+: 1715824784:0;man kill
+: 1715824834:0;man signal
+: 1715824872:0;signal print
+: 1715824879:0;man signal
+: 1715824919:0;man kill
+: 1715824983:0;kill -L
+: 1715824994:0;sudo kill -L
+: 1715825041:0;info kill
+: 1715825167:0;sudo apt update
+: 1715825192:0;sudo apt install cat
+: 1715825217:0;sudo apt install ack ack-grep bzr darcs dgit fossil git-annex kdesdk-scripts mercurial perl-doc stow subversion subversion-tools unison
+: 1715825369:0;curl -sL --proto-redir -all,https https://raw.githubusercontent.com/zplug/installer/master/installer.zsh | zsh
+: 1715825382:0;zplug install
+: 1715825739:0; cd .zplug
+: 1715825748:0;./build.sh
+: 1715825846:0;ls
+: 1715825859:0;zsh init.zsh
+: 1715825876:0;source ~/.zplug/init.zsh\
+
+: 1715825970:0;zplug --help
+: 1715826021:0;zplug update
+: 1715826544:0;zplug --help
+: 1715826592:0;zplug list
+: 1715826883:0;cd
+: 1715826901:0;sudo apt install git-core
+: 1715826927:0;sudo apt install git-core zsh
+: 1715827021:0;curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh
+: 1715827085:0;man sh
+: 1715827095:0;sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+: 1715827913:0;man mv
+: 1715828058:0;apt search acroread
+: 1715828133:0;apt search acrobat reader
+: 1715828165:0;apt-cache search 'acrobat reader'
+: 1715828214:0;foxit
+: 1715828223:0;apt search foxit
+: 1715828241:0;zsh
+: 1715828250:0;apt search foxit
+: 1715828567:0;npm
+: 1715828577:0;sudo apt install npm
+: 1715828612:0;apt list --installed
+: 1715828726:0;sudo apt install npm
+: 1715828833:0;npm rm --global gulp
+: 1715828856:0;npx --version
+: 1715828865:0;gulp --version
+: 1715828890:0;node --version
+: 1715828919:0;npm install --global gulp-cli#
+: 1715828928:0;npm install --global gulp-cli
+: 1715828952:0;sudo npm install --global gulp-cli
+: 1715828968:0;npm fund
+: 1715828980:0;sudo npm fund
+: 1715829367:0;apt search pdf
+: 1715829443:0;sudo apt install tea
+: 1715829469:0;s
+: 1715829474:0;sudo apt install yagf
+: 1715831385:0;tea --version
+: 1715831495:0;cd
+: 1715831500:0;pwd
+: 1715831503:0;mkdir tea
+: 1715831654:0;mkdir b
+: 1715831654:0;cd
+: 1715831658:0;ls
+: 1715831659:0;cd tea
+: 1715831661:0;ls
+: 1715831668:0;cd b
+: 1715831673:0;mkdir b
+: 1715831677:0;cd b
+: 1715831702:0;cmake ..
+: 1715831737:0;sudo apt install qt6
+: 1715831794:0;qt
+: 1715831806:0;apt list --installed qt
+: 1715831830:0;apt-cache search qt
+: 1715831935:0;sudo apt install qt6-base-dev
+: 1715832240:0;sudo apt install qt6-lottie-dev qt6-multimedia-dev qt6-networkauth-dev qt6-qpa-plugins qt6-pdf-dev qt6-tools-dev qt6-wayland qt6-webengine-dev qt6-webengine-dev-tools
+: 1715832334:0;cmake ..
+: 1715832344:0;make
+: 1715832433:0;sudo make install
+: 1715832829:0;apt search adb
+: 1715832910:0;sudo apt install fdroidcl
+: 1715832921:0;fdroidcl
+: 1715832963:0;fdroid repo
+: 1715832971:0;fdroidcl repo
+: 1715833007:0;fdroidcl repo -h
+: 1715833024:0;fdroid update
+: 1715833030:0;fdroidcl update
+: 1715833108:0;sudo apt install fdroidserver
+: 1715833241:0;fdroidserver
+: 1715833281:0;fdroida+s
+: 1715833288:0;fdroidserver --help
+: 1715833298:0;man fdroidserver
+: 1715833309:0;apt show fdroidserver
+: 1715833468:0;alias fdroidcl=fd
+: 1715833478:0;fd repo add https://apt.izzysoft.de/fdroid/repo
+: 1715833488:0;info alias
+: 1715833494:0;man alias
+: 1715833499:0;help alias
+: 1715833512:0;fdroidcl repo add https://apt.izzysoft.de/fdroid/repo
+: 1715833534:0;alias fd=fdroidcl
+: 1715833542:0;fd repo add https://apt.izzysoft.de/fdroid/repo
+: 1715833673:0;alias fd="fdroidcl"
+: 1715833679:0;fd repo add https://apt.izzysoft.de/fdroid/repo
+: 1715833690:0;fdroidcl
+: 1715833702:0;fdroidcl repo add https://apt.izzysoft.de/fdroid/repo
+: 1715833713:0;fdroidcl repo
+: 1715833744:0;fdroidcl repo -h
+: 1715833768:0;fdroidcl repo add izzy https://apt.izzysoft.de/fdroid/repo
+: 1715838857:0;echo $PATH
+: 1715839209:0;apt search pylsp
+: 1715839239:0;sudo apt install python3-pylsp
+: 1715839282:0;sudo apt install flake8 python3-autopep8 python3-pycodestyle python3-pydocstyle python3-pyflakes python3-rope python3-whatthepatch python3-yapf\
+
+: 1715840102:0;sudo apt install fortune cowsay
+: 1715840230:0;sudo apt remove fortune-mod
+: 1715840253:0;sudo apt-get install fortune
+: 1715840284:0;apt search fortune
+: 1715840462:0;sudo apt-get install fortunes-ubuntu-server fortunes-spam fortunes-debian xcowsay
+: 1715840509:0;sudo apt-get install fortunes-ubuntu-server fortunes-spam fortunes-debian-hints xcowsay
+: 1715840887:0;apt search dman
+: 1715840996:0;sudo apt install debian-goodies cockpit-podman
+: 1715841095:0;sudo apt install synaptic
+: 1715841104:0;sudo apt autoremove
+: 1715843700:0;pwd
+: 1715843703:0;cdc
+: 1715843707:0;cd
+: 1715843709:0;ls
+: 1715843718:0;cd .zsh
+: 1715843730:0;sudo cd .zsh/themes
+: 1715843782:0;ls -a
+: 1715843796:0;cd .oh-my-zsh
+: 1715843801:0;ls
+: 1715843806:0;cd themes
+: 1715843816:0;git clone [200~https://github.com/ohmyzsh/ohmyzsh/tree/master/themes~
+: 1715843825:0;git clone https://github.com/ohmyzsh/ohmyzsh/tree/master/themes
+: 1715843941:0;cd
+: 1715843951:0;sudo apt install github
+: 1715844097:0;zsh
+: 1715844111:0;cowthink
+: 1715844136:0;alias
+: 1715844318:0;cowsay
+: 1715844377:0;cowsay Henlo
+: 1715844719:0;bash -c "$(curl --fail --show-error --silent --location https://raw.githubusercontent.com/zdharma-continuum/zinit/HEAD/scripts/install.sh)"
+: 1715844822:0;zinit self-update
+: 1715844852:0;zsh
+: 1715844860:0;zinit self-update
+: 1715845010:0;zinit ice depth="1"
+: 1715845052:0;cd
+: 1715845061:0;cd .oh-my-zsh
+: 1715845065:0;cd theme
+: 1715845073:0;fuck
+: 1715845078:0;cd "/home/henni/.oh-my-zsh/themes"
+: 1715845083:0;ls
+: 1715845523:0;ls -a
+: 1715845583:0;p10k configure
+: 1715845634:0;git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+: 1715845712:0;exec zsh
+: 1715846303:0;dolphin
+: 1715846411:0;chatty-protocol
+: 1715846416:0;alias
+: 1715846735:0;nano .p10k.zsh
+: 1715847160:0;kate .p10k.zsh
+: 1715847599:0;exec zsh
+: 1715847607:0;chsh
+: 1715847633:0;sudo apt update
+: 1715847653:0;sudo apt install timewari
+: 1715848324:0;curl -L -O https://github.com/GothenburgBitFactory/timewarrior/releases/download/v1.7.1/timew-1.7.1.tar.gz\
+
+: 1715848348:0;tar xzf timew-1.7.1.tar.gz
+: 1715848368:0;ls
+: 1715848373:0;cd timew-1.7.1
+: 1715848395:0;cmake -DCMAKE_BUILD_TYPE=Release .
+: 1715848400:0;make
+: 1715849160:0;apt search gnutls
+: 1715849220:0;sudo apt install gnutls-bin gnutls-doc
+: 1715850739:0;apt show taskwarrior
+: 1715850798:0;cd tea
+: 1715850813:0;tar xzf task-3.0.2.tar.gz
+: 1715850837:0;cd task-3.0.2
+: 1715850844:0;cmake -DCMAKE_BUILD_TYPE=release .
+: 1715850876:0;apt search rustc
+: 1715850902:0;sudo apt install rust-all
+: 1715851164:0;cmake -DCMAKE_BUILD_TYPE=release .
+: 1715851174:0;sudo make install
+: 1715851751:0;..
+: 1715851759:0;take tasksh-1.2.0.tar.gz
+: 1715851780:0;tar xzf tasksh-1.2.0.tar.gz
+: 1715851785:0;fuck
+: 1715852003:0;take https://taskwarrior.org/download/taskd-latest.tar.gz
+: 1715852028:0;curl -LO https://taskwarrior.org/download/taskd-latest.tar.gz
+: 1715852044:0;take taskd-latest.tar.gz
+: 1715852078:0;cd
+: 1715852089:0;take tea/taskd-latest.tar.gz
+: 1715852097:0;take tea/taskd-latest.tar.gz maaan
+: 1715852112:0;cd tea
+: 1715852119:0;tar xzf taskd-latest.tar.gz
+: 1715852190:0;NPM_CONFIG_PREFIX=~/.joplin-bin npm install -g joplin\
+sudo ln -s ~/.joplin-bin/bin/joplin /usr/local/bin/joplin\
+
+: 1715852522:0;npm fund
+: 1715852531:0;npm
+: 1715852546:0;npm install
+: 1715852740:0;yarn
+: 1715852750:0;corepack enable
+: 1715852780:0;sudo apt install build-essential libnss3 libsecret-1-dev python rsync libgbm-dev libatk-bridge2.0-0 libgtk-3.0 libasound2
+: 1715852835:0;apt search gtk
+: 1715852990:0;yarn init-2
+: 1715853069:0;yarn exec env:
+: 1715853083:0;npm corepack
+: 1715853090:0;npm help
+: 1715853121:0;man npm
+: 1715853168:0;npm search
+: 1715853182:0;info npm
+: 1715853214:0;npm search *
+: 1715853236:0;cd
+: 1715853240:0;npm ls
+: 1715853245:0;cd tea
+: 1715853247:0;npm ls
+: 1715853251:0;cd
+: 1715853265:0;npm install
+: 1715853412:0;sudo npm install
+: 1715854275:0;npm fund
+: 1715866351:0;ssh knoedel@163.172.95.77:187
+: 1715866357:0;ssh knoedel@163.172.95.77
+: 1715866370:0;ssh -p 187 knoedel@163.172.95.77
+: 1715873870:0;sudo apt install libmpv-dev
+: 1715873993:0;git clone kanishka-linux/kawaii-player
+: 1715874169:0;python3 create_deb.py
+: 1715874230:0;sudo apt install ./kawaii-player-6.0.0-1.deb
+: 1715874284:0;sudo apt install mpv mplayer
+: 1715874381:0;sudo apt install ./kawaii-player-6.0.0-1.deb
+: 1715874482:0;kawaii-player
+: 1716211248:0;sudo apt update
+: 1716211700:0;ssh -p 187 knoedel@163.172.95.77
+: 1716212005:0;sudo apt update
+: 1716212100:0;apt list --upgradeable
+: 1716212470:0;ipconfig
+: 1716212477:0;ifconfig
+: 1716212539:0;net-tools --help
+: 1716212542:0;man net-tools
+: 1716212547:0;man ifconfig
+: 1716212623:0;ifconfig wlp1s0 mtu 65536
+: 1716212640:0;sudo ifconfig wlp1s0 mtu 65536
+: 1716212654:0;sudo ifconfig wlp1s0 mtu 0
+: 1716212661:0;sudo ifconfig wlp1s0 mtu 9000
+: 1716212673:0;man ifconfig
+: 1716212729:0;ifconfig -v wlp1s0
+: 1716212741:0;ifconfig -v wlp1s0 mtu 3000
+: 1716212748:0;sudo ifconfig -v wlp1s0 mtu 3000
+: 1716212761:0;ifconfig -v wlp1s0
+: 1716212774:0;ifconfig -v
+: 1716212833:0;info ifconfig
+: 1716212923:0;info netstat
+: 1716212962:0;man ss
+: 1716213005:0;netstat -i
+: 1716213022:0;ss
+: 1716213097:0;info ss
+: 1716213162:0;man ip
+: 1716213249:0;ip -h link
+: 1716213286:0;ip -dh link
+: 1716213295:0;ip -d -h link
+: 1716213324:0;info ip
+: 1716213367:0;ip-link -h
+: 1716213379:0;man ip-link
+: 1716213467:0;ip link set wlp1s0 mtu 60000
+: 1716213474:0;sudo ip link set wlp1s0 mtu 60000
+: 1716213483:0;sudo ip link set wlp1s0 mtu 3000
+: 1716213488:0;sudo ip link set wlp1s0 mtu 1501
+: 1716213513:0;ip -d h link
+: 1716213531:0;ip -h link
+: 1716213761:0;alias
+: 1716213771:0;la /etc
+: 1716213796:0;la /etc/netplan
+: 1716213814:0;cat /etc/netplan/01-network-manager-all.yaml
+: 1716213844:0;sudo cat /etc/netplan/90-NM-1bb2d0a2-5552-47bb-9477-19c273e9dbeb.yaml
+: 1716213889:0;cat /etc/netplan/90-NM-ca61b801-c3a7-4bb3-a62d-4343382a7525.yaml
+: 1716213896:0;sudo cat /etc/netplan/90-NM-ca61b801-c3a7-4bb3-a62d-4343382a7525.yaml
+: 1716213937:0;netplan try
+: 1716213951:0;sudo netplan try
+: 1716214317:0;ping 1.1.1.1
+: 1716214599:0;la /etc/network/interfaces
+: 1716214607:0;la /etc
+: 1716214617:0;la /etc/network
+: 1716214636:0;cd /etc/network/if-up.d
+: 1716214637:0;la
+: 1716214648:0;cd ..
+: 1716214655:0;cd if-pre-up.d
+: 1716214656:0;ls
+: 1716214662:0;sudo la
+: 1716214669:0;la
+: 1716214688:0;cd wirel
+: 1716214701:0;nano wireless-tools
+: 1716214765:0;iwconfig
+: 1716214788:0;man iwconfi
+: 1716214791:0;man iwconfig
+: 1716215426:0;nmcli
+: 1716215733:0;nmcli connection show
+: 1716215761:0;nmcli device show
+: 1716215842:0;nmcli show
+: 1716215845:0;nmcli
+: 1716215935:0;nmcli --help
+: 1716215969:0;nmcli -p f
+: 1716215973:0;nmcli -p g
+: 1716215985:0;nmcli -o f
+: 1716215987:0;nmcli -o g
+: 1716216011:0;nmcli -o a
+: 1716216087:0;nmcli -p a
+: 1716216098:0;systemctl status
+: 1716216169:0;systemctl status --help
+: 1716216186:0;systemctl status is-failed
+: 1716216191:0;systemctl status --is-failed
+: 1716216208:0;qss+
+: 1716216226:0;systemctl is-failed
+: 1716216243:0;systemctl status is-failed
+: 1716216250:0;systemctl status -is-failed
+: 1716216277:0;systemctl show is-failed
+: 1716216326:0;systemctl status
+: 1716216359:0;systemctl cat failed
+: 1716216368:0;systemctl status failed
+: 1716216376:0;info systemctl
+: 1716216427:0;systemctl status --failed
+: 1716216510:0;systemctl start snmpd.s.
+: 1716216523:0;systemctl start snmpd.service
+: 1716216542:0;systemctl status snmpd.service
+: 1716216582:0;journalctl -xeu snmpd.service
+: 1716216848:0;nmcli
+: 1716217668:0;alias
+: 1716217704:0;which-command
+: 1716217719:0;which-command os-versiob
+: 1716217726:0;whence os
+: 1716217731:0;whence -h
+: 1716217735:0;whence --help
+: 1716217766:0;hitchhiker_cow
+: 1716217799:0;agu
+: 1716217837:0;agud
+: 1716218071:0;hi
+: 1716218077:0;time
+: 1716218081:0;clock
+: 1716218090:0;cow
+: 1716218096:0;fortune
+: 1716218103:0;fortune-cow
+: 1716218111:0;cowpoke
+: 1716218137:0;cowsay -h
+: 1716218148:0;man cowsay
+: 1716218266:0;cowsay fortune
+: 1716218279:0;cowsay -l
+: 1716218287:0;alias
+: 1716218303:0;fortune | cowthink
+: 1716218310:0;fortune .h
+: 1716218319:0;fortune -h
+: 1716218329:0;man fortune
+: 1716218404:0;fortune -s | cowsay
+: 1716218410:0;fortune -o
+: 1716218454:0;alias fow="fortune -s | cowsay"
+: 1716218456:0;fow
+: 1716218683:0;do-release-upgrade
+: 1716218777:0;oh-my-zsh
+: 1716218789:0;do-release-upgrade -d
+: 1716218970:0;omz
+: 1716218981:0;omz theme
+: 1716218988:0;omz theme list
+: 1716219017:0;omz theme set random
+: 1716219160:0;omz update
+: 1716219169:0;omz changelog
+: 1716240884:0;man cp
+: 1716240940:0;la
+: 1716240960:0;nano .zshrc
+: 1716241137:0;cd .oh-my-zsh
+: 1716241140:0;ls
+: 1716241151:0;cd plugins
+: 1716241154:0;ls
+: 1716241264:0;cd ssh
+: 1716241268:0;ls
+: 1716241273:0;la
+: 1716241577:0;zsh
+: 1716241874:0;aliases
+: 1716241911:0;nano .zshrc
+: 1716241957:0;zsh
+: 1716241970:0;_aliases
+: 1716242013:0;als
+: 1716242159:0;clr
+: 1716242172:0;aguu
+: 1716242197:0;nano ssh.plugin.zsh
+: 1716242245:0;cd
+: 1716242249:0;cd .ssh
+: 1716242250:0;ls
+: 1716242267:0;agli
+: 1716242282:0;zsh-doc
+: 1716242291:0;info zsh-doc
+: 1716242354:0;man sshfs
+: 1716242387:0;man wireless
+: 1716242432:0;man zshcompsys
+: 1716242450:0;man zshoptions
+: 1716242481:0;alias
+: 1716242538:0;pwd
+: 1716242546:0;cd /
+: 1716242548:0;ls
+: 1716242552:0;cd home
+: 1716242553:0;ls
+: 1716242555:0;la
+: 1716242568:0;cd readarr
+: 1716242574:0;sudo cd readarr
+: 1716242586:0;fuck
+: 1716242591:0;fincore sudo cd readarr
+: 1716242599:0;fincore
+: 1716242604:0;fincore --help
+: 1716242664:0;la -D readarr/
+: 1716242680:0;cd -s /readarr
+: 1716242684:0;la
+: 1716242700:0;cd -s readarr
+: 1716242702:0;ls
+: 1716242708:0;su
+: 1716242745:0;sudo rm -rf readarr/
+: 1716242747:0;ls
+: 1716242749:0;la
+: 1716242763:0;cd
+: 1716242771:0;...
+: 1716242772:0;ls
+: 1716242782:0;ls mnt
+: 1716242785:0;cd mnt
+: 1716242786:0;ls
+: 1716242794:0;lsblk
+: 1716242830:0;cd media/henni/Träger M
+: 1716242845:0;cd
+: 1716242847:0;cd media
+: 1716242849:0;la
+: 1716242862:0;cd /
+: 1716242864:0;la
+: 1716242867:0;cd media
+: 1716242868:0;ls
+: 1716242875:0;cd henni
+: 1716242876:0;ls
+: 1716242880:0;cd Träger\ M
+: 1716242883:0;ls
+: 1716242932:0;sudo cp /home/henni /media/henni/Träger\ M/bu\ kubuntu\ ideapad
+: 1716242947:0;sudo cp -r /home/henni /media/henni/Träger\ M/bu\ kubuntu\ ideapad
+: 1716251462:0;curl -fsSL https://ollama.com/install.sh | sh
+: 1716254004:0;ollama
+: 1716254250:0;docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
+: 1716254267:0;docker run --help
+: 1716254382:0;sudo service docker restart
+: 1716254397:0;docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
+: 1716254416:0;sudo docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
+: 1716256231:0;docker status
+: 1716256238:0;alias
+: 1716256242:0;aliases
+: 1716256297:0;dcls
+: 1716256303:0;sudo dcls
+: 1716256317:0;dclss
+: 1716256321:0;dcls
+: 1716256333:0;docke rr
+: 1716256342:0;docker container ls
+: 1716256350:0;sudo docker container ls
+: 1716256839:0;ollama
+: 1716256847:0;ollama ps
+: 1716256852:0;ollama list
+: 1716259010:0;ffmpeg
+: 1716259032:0;echo $PATH
+: 1716259171:0;alias app
+: 1716259175:0;alias
+: 1716259190:0;agli
+: 1716259643:0;python -m pip
+: 1716259665:0;python -m pip list
+: 1716259710:0;python -m pip install git+https://zotify.xyz/zotify/zotify.git\
+
+: 1716260320:0;kate .zshrc
+: 1716260387:0;zsh
+: 1716260398:0;echo $PATH
+: 1716260405:0;zotify
+: 1716260598:0;zotify --help
+: 1716263240:0;zotify -s Pain
+: 1716263701:0;zotify
+: 1716263706:0;zsh
+: 1716263711:0;zotify
+: 1716264419:0;zotify -d
+: 1716264456:0;zotify -d loadthis-txt
+: 1716264464:0;zotify -d loadthis.txt
+: 1716264735:0;zotify -d /home/henni/Music/loadthis.txt
+: 1716317127:0;sudo cp -r /home/henni /media/henni/Träger\ M/bu\ kubuntu\ ideapad
+: 1716317177:0;alias
+: 1716317389:0;alias cp
+: 1716317393:0;cp -h
+: 1716317452:0;alias cp --help
+: 1716317463:0;cp --help
+: 1716317590:0;sudo cp -ruv /home/henni /media/henni/Träger\ M/bu\ kubuntu\ ideapad
+: 1716317605:0;ls /media
+: 1716317614:0;cd /media/root
+: 1716317627:0;sudo cd /media/root
+: 1716317649:0;cd /
+: 1716317650:0;cd media
+: 1716317654:0;ls
+: 1716317656:0;cd henni
+: 1716317658:0;ls
+: 1716317776:0;mt
+: 1716317782:0;mt --help
+: 1716317814:0;mount
+: 1716317825:0;mount --help
+: 1716317868:0;ssh
+: 1716317872:0;sshd
+: 1716393405:0;joplin
+: 1716393438:0;npm update
+: 1716393447:0;sudo npm update
+: 1716393816:0;nvm
+: 1716393819:0;nodejs
+: 1716393874:0;npm install -g n\
+
+: 1716393885:0;npm install -g n\
+ sudo
+: 1716393906:0;sudo npm install -g n
+: 1716393926:0;n lts\
+n latest\
+
+: 1716393950:0;n lts\
+n latest
+: 1716393966:0;sudo n lts\
+n latest
+: 1716402088:0;sudo n lts && sudo n latest
+: 1716402124:0;nodejs
+: 1716402185:0;zsh
+: 1716402189:0;nodejs --version
+: 1716402228:0;sudo n lts\
+n latest
+: 1716402266:0;sudo n latest
+: 1716402273:0;sudo n lts
+: 1716402283:0;hash -r
+: 1716402285:0;zsh
+: 1716402293:0;nodejs --version
+: 1716402300:0;joplin
+: 1716402343:0;sudo     npm install --os=linux --cpu=x64 sharp
+: 1716402698:0;sudo npm fund
+: 1716402715:0;npm --help
+: 1716402734:0;joplin
+: 1716402760:0;sudo    yarn add sharp --ignore-engines\
+
+: 1716402868:0;apt search yarn
+: 1716402924:0;sharp
+: 1716402930:0;npm sharp
+: 1716402935:0;joplin
+: 1716404461:0;zotify
+: 1716405751:0;NPM_CONFIG_PREFIX=~/.joplin-bin npm install -g joplin\
+
+: 1716405921:0;sudo ln -s ~/.joplin-bin/bin/joplin /usr/local/bin/joplin\
+
+: 1716405945:0;joplin
+: 1716410707:0;ssh henni@ssh.hennihahnsen.de
+: 1716410724:0;ssh -p 187 henni@ssh.hennihahnsen.de
+: 1716411007:0;man sshd_config
+: 1716411844:0;ssh -p 187 henni@ssh.hennihahnsen.de
+: 1716411879:0;ssh -p 187 knoedel@ssh.hennihahnsen.de
+: 1716414894:0;zotify meckbach
+: 1716414906:0;zotify 
+: 1716414943:0;zotify -s meckbach
+: 1716417515:0;ssh -p 187 knoedel@ssh.hennihahnsen.de
+: 1716418413:0;ls
+: 1716418440:0;sudo rm -rf Making.a.Murderer.S01E02.Gegenangriff.German.DL.Dubbed.Doku.720p.WebHD.x264-SENATiON
+: 1716418601:0;lsblk
+: 1716423766:0;apt search mtools
+: 1716423795:0;apt search dosfstools
+: 1716423810:0;sudo apt install mtools dosfstools
+: 1716424220:0;zotify -s Meckbach
+: 1716460901:0;zotify -h
+: 1716460948:0;zotify -d Meckbach
+: 1716460964:0;zotify -s Meckbach
+: 1716583115:0;sudo apt update
+: 1716583160:0;apt list --upgradable
+: 1716583191:0;sudo apt --dist-upgrade
+: 1716583205:0;sudo apt upgrade --dist-upgrade
+: 1716583213:0;info apt
+: 1716583343:0;sudo apt-get dist-upgrade
+: 1716583664:0;alias
+: 1716583698:0;sudo scu-stop cloudflared
+: 1716583711:0;sudo systemctl stop cloudflared
+: 1716583844:0;systemctl show-environment
+: 1716583936:0;afu
+: 1716583945:0;aga
+: 1716583956:0;aguu
+: 1716583967:0;reboot
+: 1716587664:0;sudo apt update
+: 1716716879:0;omz update
+: 1716716894:0;apt search thonny
+: 1716720472:0;sudo apt-get remove thonny
+: 1716720505:0;apt search thonny
+: 1716720514:0;sudo apt-get install thonny
+: 1716720541:0;thonny
+: 1716720750:0;sudo apt install cmake gcc-arm-none-eabi libnewlib-arm-none-eabi libstdc++-arm-none-eabi-newlib
+: 1716720800:0;git clone https://github.com/raspberrypi/pico-sdk/tree/master
+: 1716720819:0;git clone https://github.com/raspberrypi/pico-sdk.git
+: 1716720858:0;pwd
+: 1716720859:0;ls
+: 1716720868:0;cd pico-sdk
+: 1716720870:0;ls
+: 1716720928:0;dolphin
+: 1716721386:0;sudo apt-get purge thonny
+: 1716721697:0;sudo  apt-get install thonny
+: 1716722020:0;thonny
+: 1716724887:0;pip
+: 1716724896:0;pip install esptool.py
+: 1716724917:0;sudo apt install python3-esptool.py
+: 1716724955:0;sudo apt install python3-full
+: 1716725471:0;sudo         python -m pip install --upgrade pip\
+
+: 1716726738:0;esptool
+: 1716727049:0;sudo reboot
+: 1716727101:0;sudo esptool
+: 1716727150:0;esptool.py run -h
+: 1716727156:0;esptool run -h
+: 1716727269:0;sudo thonny
+: 1716727359:0;apt search Arduino
+: 1716727376:0;arduino
+: 1716745614:0;ssh -p 187 henni@192.168.178.119
+: 1717008963:0;ssh 192.168.178.118:187
+: 1717008970:0;ssh 192.168.178.119:187
+: 1717009129:0;ssh -p 187 henni@192.168.178.119
+: 1717011715:0;~~ssh -p 187 henni@192.168.178.119
+: 1717011721:0;ssh -p 187 henni@192.168.178.119
+: 1717013294:0;docker ps
+: 1717013301:0;sudo docker ps
+: 1717174746:0;apt search arduino
+: 1717175478:0;ls
+: 1717175516:0;arduino-ide_2.3.2_Linux_64bit.appimage
+: 1717175576:0;./arduino-ide_2.3.2_Linux_64bit.appimage
+: 1717175600:0;sudo ./arduino-ide_2.3.2_Linux_64bit.appimage
+: 1717175623:0;sudo ./arduino-ide_2.3.2_Linux_64bit.appimage --no-sandbox
+: 1717175815:0;sudo apt remove arduino
+: 1717175837:0;sudo apt autoremove
+: 1717175851:0;sudo apt search arduino
+: 1717175887:0;sudo apt remove arduino-builder arduino-ctags
+: 1717175906:0;sudo apt install arduino-ide_2.3.2_Linux_64bit.appimage
+: 1717175917:0;apt search arduino-ide
+: 1717175921:0;apt search arduino
+: 1717175955:0;sudo apt install arduino
+: 1717175991:0;sudo apt install libjackson2-annotations-java-doc libactivation-java libcommons-csv-java libconversant-disruptor-java\
+  libdisruptor-java libgeronimo-jms-1.1-spec-java libjackson2-dataformat-xml-java libjackson2-dataformat-yaml\
+  libjctools-java libjeromq-java libmail-java libwoodstox-java libsemver-java-doc\
+  libxmlgraphics-commons-java-doc
+: 1717176031:0;sudo apt install default-jdk openjdk-21-jdk
+: 1717176043:0;arduino
+: 1718662047:0;alias
+: 1718662071:0;aguu
+: 1718686040:0;sudo reboot
+: 1718912773:0;ping 2003:F4:3F11:FE00:AD42:D1BB:CE2C:5A4B
+: 1718912811:0;ping google.com
+: 1718913243:0;ping 79.207.0.249
+: 1718914089:0;nmap 79.207.0.249
+: 1718914121:0;ping 79.207.0.249
+: 1718914149:0;man nmap
+: 1718914591:0;nmap -A -T4 79.207.0.249
+: 1718914608:0;nmap -A -Pn 79.207.0.249
+: 1718915371:0;man ssh
+: 1718915430:0;man ssl
+: 1718915529:0;ifconfig
+: 1718915799:0;ifconfig -h
+: 1718915893:0;ifconfig --help
+: 1718915899:0;man ifconfig
+: 1718915940:0;netstat -i
+: 1719086835:0;omz update
+: 1719086846:0;sudo apt update
+: 1719086864:0;sudo apt upgrade
+: 1719086916:0;balena
+: 1719086921:0;apt search balena
+: 1719087064:0;apt search bootable usb
+: 1719087083:0;sudo apt install makebootfat
+: 1719087105:0;makebootfat
+: 1719088326:0;apt search suse studio
+: 1719088337:0;apt search imagewriter
+: 1719088387:0;lsblk
+: 1719088413:0;sudo umount /dev/sda
+: 1719088423:0;sudo umount /dev/sda11
+: 1719088426:0;sudo umount /dev/sda1
+: 1719088461:0;cd Music
+: 1719088491:0;dd if=openSUSE-Leap-15.6-DVD-x86_64-Build709.1-Media.iso of=dev/sda1 bs=4M status=progress &&sync
+: 1719088502:0;dd if=openSUSE-Leap-15.6-DVD-x86_64-Build709.1-Media.iso of=/dev/sda1 bs=4M status=progress &&sync
+: 1719088508:0;sudo dd if=openSUSE-Leap-15.6-DVD-x86_64-Build709.1-Media.iso of=/dev/sda1 bs=4M status=progress &&sync
+: 1719088776:0;sync
+: 1719156377:0;[200~sh -c "$(curl -fsLS get.chezmoi.io)"
+: 1719156380:0;~sh -c "$(curl -fsLS get.chezmoi.io)"\
+
+: 1719156388:0;sh -c "$(curl -fsLS get.chezmoi.io)"\
+
+: 1719156566:0;chezmoi init
+: 1719156656:0;.zplug
+: 1719156663:0;ls
+: 1719156678:0;./run.sh
+: 1719156685:0;sudo ./run.sh
+: 1719156703:0;cd
+: 1719156705:0;ls
+: 1719156723:0;ls -a
+: 1719156738:0;sudo rm -r .zplug
+: 1719156742:0;ls -a
+: 1719156746:0;zsh
+: 1719156794:0;chezmoi add .zshrc .zsh_history .zshrc.bck .zshrc.pre-oh-my-zsh
