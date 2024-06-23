@@ -721,3 +721,25 @@ n latest
 : 1719156742:0;ls -a
 : 1719156746:0;zsh
 : 1719156794:0;chezmoi add .zshrc .zsh_history .zshrc.bck .zshrc.pre-oh-my-zsh
+: 1719156801:0;chezmoi add .oh-my-zsh
+: 1719156862:0;chezmoi cd
+: 1719156875:0;git add .
+: 1719156888:0;git commit -m "initial commit"
+: 1719156922:0;git config --global user.email "zuckerkette@gmail.com"
+: 1719156933:0;git config --global user.name "IdeaPad"
+: 1719156938:0;git commit -m "initial commit"
+: 1719157204:0;git remote add origin git@github.com:Dampflokhenni/dotfiles.git
+: 1719157232:0;git branch -M main
+: 1719157243:0;git push -u origin main
+: 1719157390:0;git config --global user.name Dampflokhenni
+: 1719157393:0;git push -u origin main
+: 1719157510:0;exit
+: 1719157519:0;chezmoi cd
+: 1719157528:0;git add .
+: 1719157541:0;git commit -M "commit"
+: 1719157558:0;git commit -m "commit"
+: 1719157581:0;chezmoi cd
+: 1719157590:0;git add .
+: 1719157613:0;chezmoi diff
+: 1719157729:0;chezmoi init
+: 1719157743:0;chezmoi add .zshrc .zsh_history .zshrc.bck .zshrc.pre-oh-my-zsh
